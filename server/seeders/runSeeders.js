@@ -17,4 +17,4 @@ import { uploadloans } from "./loadprestamos.js";
     } finally {
         process.exit();
     }
-})()
+})();
